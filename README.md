@@ -1,5 +1,7 @@
 # sovereign-gen Protocol Specification
 
+*Martin Zirulnik · April 2026*
+
 A streaming attribution protocol for LLM-generated content. Ensures that when an LLM generates a response using retrieved source material, every piece of output is classified by its source relationship, streamed with provenance metadata before content, and validated for both integrity and fidelity.
 
 ## Problem
@@ -265,3 +267,5 @@ A reference implementation exists but is not yet public. Key feasibility points:
 ## License
 
 This specification is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Canonical URL: [sovereigngen.ai](https://sovereigngen.ai) · Source: [github.com/mziru/sovereign-gen-spec](https://github.com/mziru/sovereign-gen-spec)
